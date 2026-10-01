@@ -24,9 +24,9 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@arcjet/guard": "1.13.0",
-    "@mastra/core": "1.59.0",
-    "zod": "4.4.3"
+    "@arcjet/guard": "1.14.0",
+    "@mastra/core": "1.63.2",
+    "zod": "4.5.4"
   },
   "devDependencies": {
     "@types/node": "24.13.3",
